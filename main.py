@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 
 urls = [
     'UC8butISFwT-Wl7EV0hUK0BQ'
-]
+
 
 def main():
     driver = webdriver.Chrome()
